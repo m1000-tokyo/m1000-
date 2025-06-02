@@ -9,7 +9,7 @@ You can call me **M1000** — that's my coder handle 👨‍💻.
 ## 💻 My Setup
 
 - **OS:** Arch Linux (btw 😉)
-- **GPU:** NVIDIA GT 730
+- **GPU:** NVIDIA RTX 3060 TI
 - **Terminal:** Alacritty or Kitty (depending on the workflow)
 - **Shell:** Custom shell configuration
 - **System Info Tool:** Neofetch with personalized anime-themed ASCII art
